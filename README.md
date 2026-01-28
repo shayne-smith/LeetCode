@@ -1,4 +1,1 @@
 # LeetCode
-# LeetCode
-# LeetCode
-# LeetCode
